@@ -1,8 +1,8 @@
 {
   "name": "Job-Scraping-WebApp",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A Job listing web application",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/deni2346kea/Job-Scraping-WebApp.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Denis Kutnar",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/deni2346kea/Job-Scraping-WebApp/issues"
